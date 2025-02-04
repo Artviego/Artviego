@@ -1,16 +1,41 @@
-## Hi there 👋
+## 🤘 Arthur Arndt
+**`Cursando Técnico de Desenvolvimento de Sistemas`**
 
-<!--
-**Artviego/Artviego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Arthur Arndt Almeida, tenho 17 anos e sou natural de Minas Gerais. 
+Atualmente estou cursando o ensino médio e o curso técnico de Desenvolvimento de Sistemas no Senai CTTI.
+Sempre fui apaixonado pela programação e estou sempre buscando aprender mais.
 
-Here are some ideas to get you started:
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurarndtalmeida@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Artviego)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fckarnds)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⌨️ Linguagens e tecnologias
+
+<img 
+    aling="left"
+    alt="C#"
+    title="C#"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+<img 
+    aling="left"
+    alt="C#"
+    title="C#"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/>
+
+### 📈 Estatísticas
+
+<img
+    alling="left"
+    alt="GitHub Stats"
+    height="180"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=Artviego&show_icons=true&theme=date_night&include_all_commits=true"
+/>
