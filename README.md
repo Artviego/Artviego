@@ -54,7 +54,8 @@ Sempre fui apaixonado pela programação e estou sempre buscando aprender mais.
     height="180"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=Artviego&show_icons=true&theme=date_night&include_all_commits=true"
-/><img
+/>
+<img
     alling="left"
     alt="GitHub Stats"
     height="180"
