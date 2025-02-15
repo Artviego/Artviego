@@ -1,4 +1,4 @@
-## 🤘 Arthur Arndt
+## 🦇 Arthur Arndt
 **`Cursando Técnico de Desenvolvimento de Sistemas`**
 
 Me chamo Arthur Arndt Almeida, tenho 17 anos e sou natural de Minas Gerais. 
