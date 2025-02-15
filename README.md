@@ -1,9 +1,9 @@
 ## 🦇 Arthur Arndt
 **`Cursando Técnico de Desenvolvimento de Sistemas`**
 
-Me chamo Arthur Arndt Almeida, tenho 17 anos e sou natural de Minas Gerais. 
-Atualmente estou cursando o ensino médio e o curso técnico de Desenvolvimento de Sistemas no Senai CTTI.
-Sempre fui apaixonado pela programação e estou sempre buscando aprender mais.
+My name is Arthur Arndt Almeida, i'm 17 years old and iam from Brazil. 
+I'm currently attending high school and the Systems Development Technician course at SENAI.
+I love programming since i was a kid, and i always look for learning more.
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurarndtalmeida@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Artviego)
@@ -11,7 +11,7 @@ Sempre fui apaixonado pela programação e estou sempre buscando aprender mais.
 
 ---
 
-### ⌨️ Linguagens e tecnologias
+### ⌨️ Languages and Technologies
 
 <img 
     aling="left"
@@ -46,7 +46,7 @@ Sempre fui apaixonado pela programação e estou sempre buscando aprender mais.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-### 📈 Estatísticas
+### 📈 Statistics
 
 <img
     alling="left"
