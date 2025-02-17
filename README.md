@@ -53,11 +53,12 @@ I love programming since i was a kid, and i always look for learning more.
     alt="GitHub Stats"
     height="180"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=Artviego&show_icons=true&theme=date_night&include_all_commits=true"
-/><img
+    src="https://github-readme-stats.vercel.app/api?username=Artviego&show_icons=true&theme=midnight-purple&include_all_commits=true"
+/>
+<img
     alling="left"
     alt="GitHub Stats"
     height="180"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artviego&theme=date_night"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artviego&theme=midnight-purple"
 />
