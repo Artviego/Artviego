@@ -59,6 +59,6 @@ I love programming since i was a kid, and i always look for learning more.
     alling="left"
     alt="GitHub Stats"
     height="180"
-    style="padding-right: 10px;"
+    style="padding-right: 30px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artviego&layout=donut-vertical&theme=midnight-purple"
 />
