@@ -54,7 +54,8 @@ I love programming since i was a kid, and i always look for learning more.
     height="180"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=Artviego&show_icons=true&theme=midnight-purple"
-/> <img
+/> 
+<img
     alling="left"
     alt="GitHub Stats"
     height="180"
